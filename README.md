@@ -5,7 +5,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,js,ts,react,fasapi,python,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,js,ts,react,python,git,github,vscode,docker" />
 </p>
 
 <h2>🐍 My Contributions</h2>
